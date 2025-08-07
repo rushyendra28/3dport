@@ -153,7 +153,7 @@ main{
     background-size: 200%;
     animation: animationGradient 2.5s linear infinite;
     box-shadow: 0 0 15px rgba(255, 255, 255, 0.3); */
-    transition: 0.5s ease;
+    transition: 0.75s ease;
 }
 
 .btn-github:hover{
@@ -172,7 +172,7 @@ main{
     background-size: 200%;
     animation: animationGradient 2.5s linear infinite;
     box-shadow: 0 0 15px rgba(255, 255, 255, 0.3); */
-    transition: 0.5s ease;
+    transition: 0.75s ease;
 }
 
 .btn-linkedin:hover{
